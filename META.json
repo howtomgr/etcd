@@ -1,0 +1,63 @@
+{
+  "category": "key-value-stores",
+  "created_date": "2025-09-15T22:48:57.532784",
+  "default_ports": [
+    80,
+    443,
+    2379,
+    2380
+  ],
+  "dependencies": [],
+  "description": "etcd is a free and open-source distributed key-value store. etcd provides a reliable way to store data across a cluster of machines, serving as the backbone for Kubernetes and other distributed systems",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/key-value-stores/etcd",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/key-value-stores/etcd",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.532803",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "etcd",
+  "repository_url": "https://github.com/howtomgr/etcd",
+  "spec_version": "2.0",
+  "subcategory": "key-value-stores",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "key-value-stores",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "etcd Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/key-value-stores/etcd"
+}
